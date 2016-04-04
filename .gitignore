@@ -1,0 +1,7 @@
+/.project
+bin/
+obj/
+
+*.bak
+*.cbp
+*.layout
